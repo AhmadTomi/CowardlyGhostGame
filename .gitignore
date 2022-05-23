@@ -1,0 +1,10 @@
+Library/Artifacts/
+Library/Bee/artifacts/
+Library/PackageCache/
+Library/ShaderCache/
+Library/StateCache/
+Logs/
+Library/PlayerDataCache/
+Library/
+obj/
+UserSettings/
